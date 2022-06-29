@@ -1,0 +1,22 @@
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe.config
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\bin\Debug\DBSecurity.pdb
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmBruteForce.resources
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Properties.Resources.resources
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.exe
+C:\Users\yusuf\source\repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.pdb
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe.config
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\bin\Debug\DBSecurity.pdb
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.AssemblyReference.cache
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.SuggestedBindingRedirects.cache
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmBruteForce.resources
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Properties.Resources.resources
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.GenerateResource.cache
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.CoreCompileInputs.cache
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.exe
+E:\Windows 11-Fortmat Öncesi\İndirilenler\Yazılımlar Repos\DBSecurity\DBSecurity\obj\Debug\DBSecurity.pdb
